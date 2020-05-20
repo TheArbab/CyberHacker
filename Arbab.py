@@ -48,17 +48,16 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-
-\033[0;36m███╗░░░███╗██╗░██████╗██╗░░██╗██╗
-\033[0;32m████╗░████║██║██╔════╝██║░░██║██║
-\033[0;39m██╔████╔██║██║╚█████╗░███████║██║
-\033[0;33m██║╚██╔╝██║██║░╚═══██╗██╔══██║██║
-\033[0;31m██║░╚═╝░██║██║██████╔╝██║░░██║██║
-\033[0;36m╚═╝░░░░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝
+\033[1;36m╭━━━┳╮╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━━━╮╱╭╮╱╱╱╱╭╮
+\033[1;36m┃╭━╮┃┃╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱┃╭━╮┃╱┃┃╱╱╱╱┃┃
+\033[1;35m┃╰━━┫╰━┳━━┫╰━┳━━━┳━━┳━╯┣━━╮╱╱┃┃╱┃┣━┫╰━┳━━┫╰━╮
+\033[1;35m╰━━╮┃╭╮┃╭╮┃╭╮┣━━┃┃╭╮┃╭╮┃╭╮┣━━┫╰━╯┃╭┫╭╮┃╭╮┃╭╮┃
+\033[1;32m┃╰━╯┃┃┃┃╭╮┃┃┃┃┃━━┫╭╮┃╰╯┃╭╮┣━━┫╭━╮┃┃┃╰╯┃╭╮┃╰╯┃
+\033[1;32m╰━━━┻╯╰┻╯╰┻╯╰┻━━━┻╯╰┻━━┻╯╰╯╱╱╰╯╱╰┻╯╰━━┻╯╰┻━━╯
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mJAM-SHAHRUKH_X_MISHAL-KHAN\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/JAM-X-MISHI\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+971528752764\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mARBAB ALI MEMMON\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mInfo  \033[1;33m : \033[1;33mCYBER-HACKER-GANG-PLAYER\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+923003023263\033[0;31m║
 \033[0;39m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -78,29 +77,29 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   
-\033[1;96m[¤] \x1b[0;31mWHATSAPP : +971528752764\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : JAM SHAHRUKH\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mYOUTUBE  : JAM SHAHRUKH TECHNICAL \x1b[0;31m"""
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM-ALAIKUM\x1b[0;31m  \033[1;96m   
+\033[1;96m[¤] \x1b[0;31mWHATSAPP : +923003023263\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : ARBAB MEMON\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mYOUTUBE  : ARBAB ALI MEMON \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
-CorrectUsername = "jam"
-CorrectPassword = "mishi"
+CorrectUsername = "CyberHacker"
+CorrectPassword = "Arbab"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS  \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS INI \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS  \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://wa.me/03003023263')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://wa.me/03003023263')
 
 def login():
 	os.system('clear')
@@ -194,8 +193,8 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Shahrukh"																														
-	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Arbab"																														
+	print "\033[1;32;40m[0] \033[1;33;40m══Logout"
 	pilih()
 
 def pilih():
@@ -298,10 +297,10 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
+	print "\n\033[1;94m        ❈     \x1b[1;91mTO STOP PROCESS PRESS CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●══════════════════════☠══════════════════════●"
 
-	jalan('            \033[1;91mJam x Mishi start cloning Wait...')
+	jalan('            \033[1;91mSHAHZADA ARBAB START CLONING PLZ WAIT...')
 	print  "  \033[1;36;48m ●══════════════════════☠══════════════════════●" 
 
 	def main(arg):
@@ -474,7 +473,7 @@ def brute():
                             ceks.close()
                             print '\n\x1b[1;91m[+] \x1b[1;92mFounded.'
                             print  "\033[1;36;40m ●════════════════════════☠════════════════════════●"
-                            print '\x1b[1;91m[!] \x1b[1;93mAccount Maybe Checkpoint'
+                            print '\x1b[1;91m[!] \x1b[1;93mMERI JAAN ACCOUNT CP PE HE DOOSRA LAGAEN'
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mUsername \x1b[1;91m:\x1b[1;97m ' + email
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mPassword \x1b[1;91m:\x1b[1;97m ' + pw
                             keluar()
